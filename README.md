@@ -1,4 +1,4 @@
-# ForgeMDK-Updated
+# [iAmSpace/MixinForge](https://github.com/iAmSpace/MixinForge)
 
 All current Minecraft Forge MDKs listed [here](https://files.minecraftforge.net/net/minecraftforge/forge/). They all have lombok and SpongePowered Mixin implemented/added, and example classes for them. You should be able to just import these projects as you would normal Gradle projects, and if they do not import properly (e.g. libraries missing), just run `setupDevWorkspace` or something like that from the Gradle tab (I am referring to [IntelliJ](https://www.jetbrains.com/idea/)).
 
