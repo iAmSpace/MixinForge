@@ -5,3 +5,7 @@ All current Minecraft Forge MDKs listed [here](https://files.minecraftforge.net/
 I believe that doing this could help a lot of beginners, especially people who want to create Forge mods for legacy versions such as 1.6.4 or 1.7.10.
 
 Power to the players!
+
+# Currently available versions
+
+[1.12/1.12.2](https://github.com/iAmSpace/MixinForge/tree/1.12/1.12.2)
