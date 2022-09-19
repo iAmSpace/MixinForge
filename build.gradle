@@ -63,7 +63,7 @@ dependencies {
         exclude module: 'gson'
     }
 
-    compile 'org.projectlombok:lombok:1.18.12'
+    compile 'org.projectlombok:lombok:1.18.24'
 }
 
 processResources {
